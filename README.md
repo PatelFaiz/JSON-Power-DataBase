@@ -13,3 +13,8 @@
 </p>
 
 <br>
+<p>I am using this Data Base for the first time, and it is super easy I have understood most of it's features in just one day. Ofcourse I need practice but I am sure it won't take long.
+I have started this on <h4>07/07/2021</h4> and I will upload more codes whenever I will practice.</p>
+
+<h4>Feel free to fork it and give it a star</h4>
+<a href="http://login2explore.com/jpdb/docs.html">click here</a> for full documentation.
