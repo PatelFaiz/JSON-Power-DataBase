@@ -1,5 +1,5 @@
 # JSON-Power-DataBase
-<h1>This project containes basic operations of CURD in JSON Power DB</h1>
+<h1>This project containes basic operation CREAT in JSON Power DB</h1>
 <br>
 <h3>Benifits of JPDB over other DB technologies</h3>
 <p>
